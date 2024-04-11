@@ -167,13 +167,14 @@ margin-bottom: 10px;
 
 input[type=checkbox] {
     appearance: checkbox;
+    display: none;
 }
 
 input[type="radio"] 
 { appearance: radio; }
 
 input[type="submit"], input[type="button"] 
-{ appearance: button; }
+{ appearance: button;}
 
 select { 
     appearance:textfield; 
