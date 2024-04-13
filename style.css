@@ -146,15 +146,15 @@ input:checked + label {
 
 a {
     text-decoration: none;
-    color: #000;
+    /* color: #000; */
     /* font-style: italic; */
     color: #54AFE4;
 }
 
-a:hover {
+/* a:hover {
     text-decoration: underline;
     color: #000;
-}
+} */
 
 /* .projects a {
     color: black;
